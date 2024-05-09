@@ -2,6 +2,9 @@ This is a repo for household occupancy prediction project. overall I have spent 
 
 ## Setup
 ~~~
+#create data dir (this is where you keep data)
+mkdir data
+
 #create a virtual env
 python -m venv .venv_name 
 
@@ -25,7 +28,7 @@ jupyter notebook
 
 To examine the workflow, see main.ipynb. 
 
-**NOTE: there is a data directory present but it's empty, this is because its not a good practice to share data on github. For the notebook to work correctly, move the data.db file to data folder**
+**NOTE: there is a data directory but it's empty, this is because its not a good practice to share data on github. For the notebook to work correctly, move the data.db file to data folder**
 
 ## Comments
 
