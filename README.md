@@ -30,3 +30,5 @@ To examine the workflow, see main.ipynb.
 ## Comments
 
 Working in notebooks is not my preferred way of working (I prefer working with scripts in IDE as it allows for better consistency, works better with version control and allows for unit testing and applying software development practices). However for the sake of this excercise, I have included everything in the notebook, including functions & classes I used for preprocessing and modelling. The notebook is divided in 3 sections and each section has their own dependencies imported.
+
+Normally I would also like to work in branches when using git however due to time constraints and simplicity, I decided to keep everything constrained in one notebook (normally I could explore different feature engineering approaches in different branches; I also wouldnt use main branch as the development branch
